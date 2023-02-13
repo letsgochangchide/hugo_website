@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>test on Hugo Theme Air</title>
+    <title>test on Chepei&#39;s Blog</title>
     <link>https://syui.cf/hugo-theme-air/tags/test/</link>
-    <description>Recent content in test on Hugo Theme Air</description>
+    <description>Recent content in test on Chepei&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="https://syui.cf/hugo-theme-air/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://syui.cf/hugo-theme-air/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>test post</title>
-      <link>https://syui.cf/hugo-theme-air/post/2016/01/01/test/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <title>測試bash</title>
+      <link>https://syui.cf/hugo-theme-air/post/2023/02/13/test/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://syui.cf/hugo-theme-air/post/2016/01/01/test/</guid>
-      <description>echo &amp;#34;hello world !!&amp;#34; </description>
+      <guid>https://syui.cf/hugo-theme-air/post/2023/02/13/test/</guid>
+      <description>語法為```bash 文字```
+&amp;#34;Hello world!&amp;#34; </description>
     </item>
     
   </channel>

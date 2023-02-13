@@ -1,31 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on Hugo Theme Air</title>
+    <title>blog on Chepei&#39;s Blog</title>
     <link>https://syui.cf/hugo-theme-air/tags/blog/</link>
-    <description>Recent content in blog on Hugo Theme Air</description>
+    <description>Recent content in blog on Chepei&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>All rights reserved - 2016</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://syui.cf/hugo-theme-air/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://syui.cf/hugo-theme-air/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>sample</title>
-      <link>https://syui.cf/hugo-theme-air/post/2017/01/01/test/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>測試bash</title>
+      <link>https://syui.cf/hugo-theme-air/post/2023/02/13/test/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://syui.cf/hugo-theme-air/post/2017/01/01/test/</guid>
-      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
- Below you will find some of the most common and helpful pages from our documentation.
- https://gohugo.io/documentation/</description>
+      <guid>https://syui.cf/hugo-theme-air/post/2023/02/13/test/</guid>
+      <description>語法為```bash 文字```
+&amp;#34;Hello world!&amp;#34; </description>
     </item>
     
     <item>
-      <title>test post</title>
-      <link>https://syui.cf/hugo-theme-air/post/2016/01/01/test/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <title>一個網頁的誕生</title>
+      <link>https://syui.cf/hugo-theme-air/post/2023/02/12/test/</link>
+      <pubDate>Sun, 12 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://syui.cf/hugo-theme-air/post/2016/01/01/test/</guid>
-      <description>echo &amp;#34;hello world !!&amp;#34; </description>
+      <guid>https://syui.cf/hugo-theme-air/post/2023/02/12/test/</guid>
+      <description>這是一個關於學習生成網頁的網站過程,透過 ChatGPT,生成網頁似乎變成一件容易的事情
+  想像できることは、全て現実なんだ。
+  https://letsgochangchide.com</description>
     </item>
     
   </channel>
